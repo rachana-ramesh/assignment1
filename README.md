@@ -11,7 +11,7 @@
 * bootstrap
     * it relies on jquery and sass for UI's interactivity
 * react
-    *used for building UI components
+    * used for building UI components
 * nodejs
     * used for server side scripting    
 
