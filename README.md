@@ -15,7 +15,7 @@
 * nodejs
     * used for server side scripting    
 
-* understood the pors and cons of different web architecture models
+* understood the pros and cons of different web architecture models
     1. **_classic_**: synchronous; user wait time is more
     2. **_modern_**: asynchronous; ajax engine acts as intermediary between user and server
     3. **_future_**: remove server side technology; uses react, nodejs, ecpres js etc
