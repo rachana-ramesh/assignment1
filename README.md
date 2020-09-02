@@ -18,9 +18,9 @@
 * understood the pros and cons of different web architecture models
     1. **_classic_**: synchronous; user wait time is more
     2. **_modern_**: asynchronous; ajax engine acts as intermediary between user and server
-    3. **_future_**: remove server side technology; uses react, nodejs, ecpres js etc
+    3. **_future_**: remove server side technology; uses react, nodejs, expressjs etc
 * learnt the basic structure of web page and working of tools like visual studio code, github desktop, github
-> * created a basic web page, github repository and published to github
+> * created a basic web page,a github repository and published to github using github desktop app
 >   * the webpage is a created for vecta corp and gives info about the company alongwith customer testimonials and contact details. 
 > * learnt the various options in markdown 
 **Reference**: [markdown tutorial](www.markdowntutorial.com)
