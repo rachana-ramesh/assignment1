@@ -22,4 +22,4 @@
 > *	Through the assignment 1, learnt how to create repos, a basic web page, commit changes and publish using Github desktop which is very convenient and helpful.
 > * the webpage is a created for vecta corp and gives info about the company alongwith customer testimonials and contact details. 
 > * learnt the various options in markdown 
-**Reference**: [markdown tutorial](www.markdowntutorial.com)
+**Reference**: [markdown tutorial](www.markdowntutorial.com) and used it to create this readme file
