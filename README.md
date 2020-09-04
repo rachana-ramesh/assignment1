@@ -1,7 +1,6 @@
 # Assignment1- CS 648
 #### creating a web page
 * _Name_: **Rachana Ramesh**.
-* _RedId_:**824674286**
 * **_Learnings from Module 1_**: 
 * Learnt about various modern web development frameworks like jquery, bootstrap, SASS, Node.js, react.
 * Was interesting to know how react and nodejs are simplifying web development like nodejs being used for server side scripting and react acting as a "middleware".
