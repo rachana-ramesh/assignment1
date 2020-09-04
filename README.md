@@ -20,6 +20,6 @@
     3. **_future_**: remove server side technology; uses react, nodejs, expressjs etc
 * learnt the basic structure of web page and working of tools like visual studio code, github desktop, github
 > *	Through the assignment 1, learnt how to create repos, a basic web page, commit changes and publish using Github desktop which is very convenient and helpful.
->   * the webpage is a created for vecta corp and gives info about the company alongwith customer testimonials and contact details. 
+> * the webpage is a created for vecta corp and gives info about the company alongwith customer testimonials and contact details. 
 > * learnt the various options in markdown 
 **Reference**: [markdown tutorial](www.markdowntutorial.com)
